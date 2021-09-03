@@ -1,2 +1,2 @@
-# backend-ecommerce-picada
-Proyecto desarrollado en node.js 
+# servidor_picada
+
